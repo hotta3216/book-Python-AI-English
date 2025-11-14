@@ -1,6 +1,6 @@
 # Python×AIでつくる英会話練習アプリ
 
-![表紙](images/Python%20x%20AI_Cover_03_fix_H1.png)
+![表紙](images/Python%20x%20AI_Cover_03_fix_H1_small.png)
 
 このリポジトリは、技術同人誌「Python×AIでつくる英会話練習アプリ」のソースコード・サンプルコード一式です。
 
